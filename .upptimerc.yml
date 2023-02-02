@@ -1,6 +1,9 @@
 # Change these first
 owner: ziodotsh # Your GitHub organization or username, where this repository lives
 repo: upptime-gearheads.social # The name of this repository
+assignees:
+  - astravexton
+  - electricduck
 
 sites:
   - name: Website
@@ -20,6 +23,8 @@ sites:
 
 status-website:
   cname: status.gearheads.social
+  css: >
+    .logo > div { display: none; }
   logoUrl: https://git.zio.sh/ducky/mastodon-gearheads/raw/commit/00575b48969e4bde37e7ca5255519981e0721d5f/app/javascript/images/logo-symbol-wordmark.svg
   name: Gearheads.social
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
