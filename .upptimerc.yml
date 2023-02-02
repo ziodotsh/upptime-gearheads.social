@@ -32,7 +32,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-  theme: masto-dark
+  themeUrl: https://cdn.zio.sh/asset/style/upptime-gearheads.social.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
