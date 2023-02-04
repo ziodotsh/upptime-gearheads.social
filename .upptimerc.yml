@@ -11,9 +11,6 @@ sites:
   - name: API
     icon: https://em-content.zobj.net/thumbs/60/google/350/gear_2699-fe0f.png
     url: https://gearheads.social/api/v2/instance
-  - name: Events API
-    icon: https://em-content.zobj.net/thumbs/60/google/350/outbox-tray_1f4e4.png
-    url: https://gearheads.social/api/v1/streaming/health
   - name: CDN
     icon: https://em-content.zobj.net/thumbs/60/google/350/file-cabinet_1f5c4-fe0f.png
     url: https://cdn.gearheads.social/check.txt
