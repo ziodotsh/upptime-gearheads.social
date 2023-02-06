@@ -22,6 +22,11 @@ status-website:
   cname: status.gearheads.social
   css: >
     .logo > div { display: none; }
+    .logo > img { height: 29px; }
+    nav ul li > a {
+      border-bottom: 2px solid transparent;
+      font-weight: 400;
+    }
   logoUrl: https://git.zio.sh/ducky/mastodon-gearheads/raw/commit/00575b48969e4bde37e7ca5255519981e0721d5f/app/javascript/images/logo-symbol-wordmark.svg
   name: Status - Gearheads
   #introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
