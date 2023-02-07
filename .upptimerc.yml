@@ -22,7 +22,7 @@ status-website:
   cname: status.gearheads.social
   css: >
     .logo > div { display: none; }
-    .logo > img { height: 29px; }
+    .logo > img { height: 32px !important; }
     nav ul li > a {
       border-bottom: 2px solid transparent;
       font-weight: 400;
