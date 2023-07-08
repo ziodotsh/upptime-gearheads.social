@@ -34,7 +34,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-  themeUrl: https://cdn.zio.sh/theme/upptime/mastodon-dark.css
+  #themeUrl: https://cdn.zio.sh/theme/upptime/mastodon-dark.css
+  themeUrl: https://b2-euc.gearheads.social/file/zio-euc-public/theme/upptime/mastodon-dark.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
