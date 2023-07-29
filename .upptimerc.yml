@@ -17,6 +17,9 @@ sites:
   - name: Relay
     icon: https://em-content.zobj.net/thumbs/60/google/350/chains_26d3-fe0f.png
     url: https://relay.gearheads.social
+  - name: Elk
+    icon: https://elk.gearheads.social/logo.svg
+    url: https://elk.gearheads.social
 
 status-website:
   cname: status.gearheads.social
