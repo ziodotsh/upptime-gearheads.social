@@ -6,9 +6,9 @@ assignees:
   - electricduck
 
 sites:
-  - name: Website
+  - name: Mastodon
     url: https://gearheads.social
-  - name: API
+  - name: Mastodon API
     icon: https://em-content.zobj.net/thumbs/60/google/350/gear_2699-fe0f.png
     url: https://gearheads.social/api/v2/instance
   - name: CDN
