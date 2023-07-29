@@ -11,9 +11,9 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 825,
-    "timeDay": 845,
-    "timeWeek": 806,
-    "timeMonth": 788,
+    "timeDay": 872,
+    "timeWeek": 821,
+    "timeMonth": 792,
     "timeYear": 825,
     "dailyMinutesDown": {
       "2023-07-29": 5
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 247,
-    "timeWeek": 255,
-    "timeMonth": 279,
-    "timeYear": 313,
+    "time": 312,
+    "timeDay": 233,
+    "timeWeek": 248,
+    "timeMonth": 276,
+    "timeYear": 312,
     "dailyMinutesDown": {
       "2023-07-29": 5
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 745,
-    "timeDay": 488,
-    "timeWeek": 407,
-    "timeMonth": 703,
-    "timeYear": 745,
+    "time": 746,
+    "timeDay": 662,
+    "timeWeek": 474,
+    "timeMonth": 713,
+    "timeYear": 746,
     "dailyMinutesDown": {
       "2023-06-05": 157,
       "2023-05-20": 9,
@@ -72,11 +72,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 555,
-    "timeDay": 501,
-    "timeWeek": 565,
+    "time": 554,
+    "timeDay": 503,
+    "timeWeek": 558,
     "timeMonth": 517,
-    "timeYear": 555,
+    "timeYear": 554,
     "dailyMinutesDown": {
       "2023-04-24": 44,
       "2023-02-15": 11
@@ -85,7 +85,7 @@
   {
     "name": "Elk",
     "url": "https://elk.gearheads.social",
-    "icon": "https://elk.gearheads.social/logo.svg",
+    "icon": "https://avatars.githubusercontent.com/u/118971678",
     "slug": "elk",
     "status": "up",
     "uptime": "100.00%",
@@ -93,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 801,
-    "timeDay": 801,
-    "timeWeek": 801,
-    "timeMonth": 801,
-    "timeYear": 801,
+    "time": 899,
+    "timeDay": 899,
+    "timeWeek": 899,
+    "timeMonth": 899,
+    "timeYear": 899,
     "dailyMinutesDown": {}
   }
 ]
