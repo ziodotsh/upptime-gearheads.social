@@ -1,7 +1,7 @@
 url: https://gearheads.social/api/v2/instance
-status: down
-code: 502
-responseTime: 379
-lastUpdated: 2023-08-22T16:57:01.863Z
+status: up
+code: 200
+responseTime: 498
+lastUpdated: 2023-08-22T17:25:57.222Z
 startTime: 2023-07-29T23:37:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
