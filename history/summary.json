@@ -94,9 +94,9 @@
     "url": "https://elk.gearheads.social",
     "icon": "https://avatars.githubusercontent.com/u/118971678",
     "slug": "elk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,6 +105,8 @@
     "timeWeek": 720,
     "timeMonth": 725,
     "timeYear": 725,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-25": 0
+    }
   }
 ]
