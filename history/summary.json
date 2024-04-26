@@ -78,9 +78,9 @@
     "url": "https://relay.gearheads.social",
     "icon": "https://em-content.zobj.net/thumbs/60/google/350/chains_26d3-fe0f.png",
     "slug": "relay",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -89,7 +89,9 @@
     "timeWeek": 508,
     "timeMonth": 509,
     "timeYear": 564,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-26": 0
+    }
   },
   {
     "name": "Elk",
