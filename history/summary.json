@@ -78,19 +78,19 @@
     "url": "https://relay.gearheads.social",
     "icon": "https://em-content.zobj.net/thumbs/60/google/350/chains_26d3-fe0f.png",
     "slug": "relay",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 557,
-    "timeDay": 889,
-    "timeWeek": 508,
-    "timeMonth": 509,
+    "timeDay": 683,
+    "timeWeek": 504,
+    "timeMonth": 508,
     "timeYear": 564,
     "dailyMinutesDown": {
-      "2024-04-26": 0
+      "2024-04-26": 20
     }
   },
   {
